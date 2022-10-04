@@ -12,7 +12,7 @@ while(periot):
 	
 	print(Fore.BLUE + 'HI I AM VARIS')
 	time.sleep(3)
-	print(Fore.YELLOW + 'LES"T ME INTRUDUCE MYSELF')
+	print(Fore.YELLOW + 'LES"T ME INTRODUCE MYSELF')
 	time.sleep(3)
 	print("███████╗██╗██████╗░░█████╗░  ██╗░░██╗███╗░░░███╗██╗░░░██╗████████╗████████╗")
 	print("██╔════╝██║██╔══██╗██╔══██╗  ██║░██╔╝████╗░████║██║░░░██║╚══██╔══╝╚══██╔══╝")
