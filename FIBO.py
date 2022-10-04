@@ -35,7 +35,7 @@ while(periot):
 	print("AGE: 17","		","Father's name ATSADET VIPAVANICH")
 	print("อายุ: 17","		","Mother's name PHATCHARIN VIPAVANICH")
 	time.sleep(1)
-	print("KINE OF BLOOD: A")
+	print("BLOOD GROUP: A")
 	print("หมู่โลหิต: A")
 	time.sleep(1)
 	print("nationality: THAI")
