@@ -44,7 +44,7 @@ while(periot):
 	print("ethnicity: THAI")
 	print("เชื้อชาติ: ไทย")
 	time.sleep(1)
-	
+	print("You'll regret it if you don't choose me.")
 	periot = False
 	
 	
